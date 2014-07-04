@@ -1,0 +1,8 @@
+Running suite(s): Tox
+Toxes are online, took 11 seconds
+tox clients connected took 5 seconds
+tox clients messaging succeeded
+100MB file sent in 13 seconds
+test_few_clients succeeded, took 29 seconds
+50%: Checks: 2, Failures: 0, Errors: 1
+../auto_tests/tox_test.c:329:E:many_clients:test_many_clients:0: (after this point) Test timeout expired
