@@ -2,7 +2,7 @@ Source: tox
 Section: unknown
 Priority: optional
 Maintainer: James Michael DuPont <mdupont@laptop.private.thefr33.com>
-Build-Depends: debhelper (>= 9), autotools-dev
+Build-Depends: debhelper (>= 9), autotools-dev, libsodium (>= 0.4.5-1)
 Standards-Version: 3.9.5
 Homepage: <insert the upstream URL, if relevant>
 #Vcs-Git: git://anonscm.debian.org/collab-maint/tox.git
